@@ -2519,10 +2519,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.17.17.tgz#7a183163a9e6ff720d86502db23ba4aade5999b8"
   integrity sha512-gpNnRnZP3VWzzj5k3qrpRC6Rk3H/uclhAVo1aIvwzK5p5cOrs9yEyQ8H/HBsBY0u5rrWxXEiVPQ0dEB6pkjE8Q==
 
-"@types/node@^12.0.12":
-  version "12.12.29"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.29.tgz#46275f028b4e463b9ac5fefc1d08bc66cc193f25"
-  integrity sha512-yo8Qz0ygADGFptISDj3pOC9wXfln/5pQaN/ysDIzOaAWXt73cNHmtEC8zSO2Y+kse/txmwIAJzkYZ5fooaS5DQ==
+"@types/node@^14.6.2":
+  version "14.17.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.2.tgz#1e94476db57ec93a372c7f7d29aa5707cfb92339"
+  integrity sha512-sld7b/xmFum66AAKuz/rp/CUO8+98fMpyQ3SBfzzBNGMd/1iHBTAg9oyAvcYlAj46bpc74r91jSw2iFdnx29nw==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -7572,13 +7572,13 @@ electron-window-state@5.0.3:
     jsonfile "^4.0.0"
     mkdirp "^0.5.1"
 
-electron@7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-7.0.1.tgz#6da2c07aa0513d3d156b5b027f317e0959261d43"
-  integrity sha512-eMFoZIO0+eOAE9FyNC/f0Vp8l/sJziTMK+axEt2XIpGCagom1IZgUKPGwmHUcftZCX5lNKh+Tv53T0GcNnNTKQ==
+electron@13.1.0:
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-13.1.0.tgz#6d960bcc0dfb8663dd511b59a697e2fad35b2b6a"
+  integrity sha512-ykRAaPWrVQkm2Lju4O4rMQzahNcxWLeLMrhBw8WnmIiugkvUH0MhZ85jsOTrAoQ2Zl1FC542bloKFWGSkeVjkg==
   dependencies:
     "@electron/get" "^1.0.1"
-    "@types/node" "^12.0.12"
+    "@types/node" "^14.6.2"
     extract-zip "^1.0.3"
 
 elegant-spinner@^1.0.1:
