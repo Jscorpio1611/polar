@@ -19690,10 +19690,10 @@ ws@3.3.x:
     safe-buffer "~5.1.0"
     ultron "~1.1.0"
 
-ws@7.3.1:
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.3.1.tgz#d0547bf67f7ce4f12a72dfe31262c68d7dc551c8"
-  integrity sha512-D3RuNkynyHmEJIpD2qrgVkc9DQ23OrN/moAwZX4L8DfvszsJxpjQuUq3LMx6HoYji9fbIOBY18XWBsAux1ZZUA==
+ws@8.21.2:
+  version "8.21.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.21.2.tgz#e6976cfe96161d40420689a5f051378d11b0f0ce"
+  integrity sha512-54dMVAo4WIe6SKy3vBgN+9bJZqqQ8IMRevAkOLQALhi49qkkQDQfWdAZ8KQlXiEabw88ARXXdUrlvtbKQX+aKw==
 
 ws@^5.2.0:
   version "5.2.2"
