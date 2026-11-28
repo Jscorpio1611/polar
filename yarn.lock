@@ -9793,12 +9793,10 @@ i18next@*:
   dependencies:
     "@babel/runtime" "^7.3.1"
 
-i18next@19.6.3:
-  version "19.6.3"
-  resolved "https://registry.yarnpkg.com/i18next/-/i18next-19.6.3.tgz#ce2346161b35c4c5ab691b0674119c7b349c0817"
-  integrity sha512-eYr98kw/C5z6kY21ti745p4IvbOJwY8F2T9tf/Lvy5lFnYRqE45+bppSgMPmcZZqYNT+xO0N0x6rexVR2wtZZQ==
-  dependencies:
-    "@babel/runtime" "^7.10.1"
+i18next@27.2.10:
+  version "27.2.10"
+  resolved "https://registry.yarnpkg.com/i18next/-/i18next-27.2.10.tgz#1a0f2f4317052019dbbb8d8cf17c11cff9363f4e"
+  integrity sha512-v2hQPOZ4yvfhK5CNyXevVjneTX85rDxgTKSV96tftmp89yrF1MEFIDV0i6jYKEnzR3lnWDe62HktDFy6624/UQ==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@^0.4.4:
   version "0.4.24"
